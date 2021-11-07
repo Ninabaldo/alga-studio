@@ -154,12 +154,12 @@ html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
   -webkit-appearance: button;
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: url(/images/A.svg) 8.5 10, default !important;
 }
 
 button[disabled],
 html input[disabled] {
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: url(/images/A.svg) 8.5 10, default !important;
 }
 
 button::-moz-focus-inner,
@@ -423,7 +423,7 @@ hr {
 }
 
 [role="button"] {
-  cursor:url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor:url(/images/A.svg) 8.5 10, default !important;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -745,7 +745,7 @@ dd {
 
 abbr[title],
 abbr[data-original-title] {
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: url(/images/A.svg) 8.5 10, default !important;
   border-bottom: 1px dotted #777777;
 }
 
@@ -2107,7 +2107,7 @@ output {
   opacity: 1;
 }
 .form-control[disabled], fieldset[disabled] .form-control {
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: url(/images/A.svg) 8.5 10, default !important;
 }
 
 textarea.form-control {
@@ -2183,7 +2183,7 @@ input[type="search"] {
   padding-left: 20px;
   margin-bottom: 0;
   font-weight: normal;
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: url(/images/A.svg) 8.5 10, default !important;
 }
 
 .radio input[type="radio"],
@@ -2208,7 +2208,7 @@ input[type="search"] {
   margin-bottom: 0;
   vertical-align: middle;
   font-weight: normal;
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: url(/images/A.svg) 8.5 10, default !important;
 }
 
 .radio-inline + .radio-inline,
@@ -2221,7 +2221,7 @@ input[type="radio"][disabled], input[type="radio"].disabled, fieldset[disabled] 
 input[type="checkbox"][disabled],
 input[type="checkbox"].disabled, fieldset[disabled]
 input[type="checkbox"] {
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: url(/images/A.svg) 8.5 10, default !important;
 }
 
 .radio-inline.disabled, fieldset[disabled] .radio-inline,
