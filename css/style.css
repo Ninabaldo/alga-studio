@@ -719,7 +719,11 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started,
 #fh5co-product,
 #fh5co-about,
-#fh5co-contact,
+#fh5co-contact { 
+  font-weight: 500;
+  margin-top: 0;
+  padding-top: 0;
+}
 #fh5co-footer {
   padding: 7em 0;
   clear: both;
@@ -2145,6 +2149,7 @@ border:none;
             /* Firefox */
             columns: 40px 1;
             padding: 1rem;
+            
   }
 }
 
@@ -2322,7 +2327,7 @@ button.alga{
             font-size: 22px;
             margin-top: 10px;
             margin-left: 20px;
-            color:rgb(255, 129, 71);
+            color:rgb(131, 66, 36);
             font-weight: 900;
         }
 
