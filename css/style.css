@@ -2139,6 +2139,28 @@ border:none;
             columns: 90px 2;
         }
 
+
+@media screen and (max-width: 400px) {
+  #GFG{
+    width: 100%;
+   
+   
+            
+           
+            padding: 0rem;
+            margin: 0;
+            font-size: 20px;
+          
+            
+  }
+  h2.about{
+    font-size: 40px !important;
+    color:rgb(80, 68, 49);
+    padding:0 !important;
+    
+  }
+}
+
 @media screen and (max-width: 600px) {
   #GFG{
     width: 100%;
