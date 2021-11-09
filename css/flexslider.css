@@ -165,7 +165,7 @@ html[xmlns] .flexslider .slides {
 .flex-direction-nav .flex-disabled {
   opacity: 0!important;
   filter: alpha(opacity=0);
-  cursor: url(/images/A.svg) 8.5 10, default !important;
+  cursor: pointer;
   z-index: -1;
 }
 .flex-pauseplay a {
@@ -178,7 +178,7 @@ html[xmlns] .flexslider .slides {
   opacity: 0.8;
   z-index: 10;
   overflow: hidden;
-  cursor: url(/images/A.svg) 8.5 10, default !important;
+  cursor: pointer;
   color: #000;
 }
 .flex-pauseplay a:before {
@@ -211,7 +211,7 @@ html[xmlns] .flexslider .slides {
   display: block;
   background: #666;
   background: rgba(0, 0, 0, 0.5);
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: pointer default !important;
   text-indent: -9999px;
   -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
@@ -228,7 +228,7 @@ html[xmlns] .flexslider .slides {
 .flex-control-paging li a.flex-active {
   background: #000;
   background: rgba(0, 0, 0, 0.9);
-  cursor:url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor:pointer;
 }
 .flex-control-thumbs {
   margin: 5px 0 0;
@@ -245,7 +245,7 @@ html[xmlns] .flexslider .slides {
   height: auto;
   display: block;
   opacity: .7;
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: pointer;
   -moz-user-select: none;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
@@ -258,7 +258,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-control-thumbs .flex-active {
   opacity: 1;
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: pointer;
 }
 /* ====================================================================================================================
  * RESPONSIVE
