@@ -2350,7 +2350,7 @@ button.alga{
             font-size: 20px;
             margin-top: 20px;
             margin-left: 30px;
-            color:rgb(131, 66, 36);
+            color:#69947B;
             font-weight: 900;
         }
 
@@ -2359,7 +2359,7 @@ button.alga{
             top: 20px;
             right: 30px;
             cursor: pointer;
-            background-color: rgba(78, 44, 29, 0.8) !important;
+            background-color: #69947B !important;
             padding:15px;
            
         }
