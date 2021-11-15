@@ -118,7 +118,7 @@ header a:hover {
   color: white;
   padding: 0.7em 1.5em;
   display: inline-block;
-  cursor:url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor:pointer;
 }
 
 .hero--section a:hover {

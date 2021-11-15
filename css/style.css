@@ -326,7 +326,7 @@ h1, h2, h3, h4, h5, h6, figure {
   cursor: pointer;
 }
 #fh5co-hero .flexslider .flex-control-nav li a.flex-active {
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor: pointer !important;
   background: rgba(255, 255, 255, 0.7);
 }
 #fh5co-hero .flexslider .flex-direction-nav {
@@ -1392,7 +1392,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav-toggle {
   width: 25px;
   height: 25px;
-  cursor: url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+  cursor:  pointer;
   text-decoration: none;
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
@@ -1706,11 +1706,11 @@ h1, h2, h3, h4, h5, h6, figure {
    width: 100% !important;
    height: auto !important;
    margin-bottom:5px; /* to match column gap */
-   cursor:url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+   cursor:pointer;
 }
 #gallery img:hover {
    
-   cursor:url(http://www.alga-studio.com/wp-content/uploads/2019/04/cursor2.svg) 8.5 10, default !important;
+   cursor:pointer;
    
 
    
